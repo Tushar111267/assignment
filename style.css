@@ -27,4 +27,18 @@
     align-items: center;
     
 }
+.sec-3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.taka2{
+    border: 1px solid red;
+    padding: 20px;
+    color: red;
+    font-weight: 500;
+    border-radius: 6px;
+}
+.taka1{
+    color: gray;
+}
   
