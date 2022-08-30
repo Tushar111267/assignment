@@ -1,3 +1,10 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
 .centered {
     position: absolute;
     top: 50%;
@@ -89,4 +96,55 @@
     box-shadow: 1px gray;
 
 }
+.sec-6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-left: 400px;
+}
+.sec-7{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height: 25vh;
+    width: 50%;
+    margin-left: 400px;
+    background-color:bisque;
+    box-shadow: gray;
+    border-radius: 6px;
+    margin-top: 20px;
+margin-bottom: 40px;}
+.btn-2{
+    background-color: red;
+    border: 1px solid red;
+    box-shadow: red;
+    padding: 3px;
+    border-radius: 2px;
+    color: whitesmoke;
+    font-weight: 300;
+}
+.foter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 50px;
+    color: orangered;
+    font-weight: 900;
+}
+.f-color{
+    color: white;
+    font-weight: 300;
+}
+.sec-8{
+    display: flex;
+    justify-content:space-evenly;
+}
+.regform{
+    margin-top:70px ;
+}
+
+
+
   
